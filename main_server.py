@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later.
+
 from fastapi import FastAPI, File, UploadFile, HTTPException, Form, status
 from fastapi.responses import Response
 from fastapi.middleware.cors import CORSMiddleware
