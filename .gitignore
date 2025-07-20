@@ -1,0 +1,48 @@
+.cache
+offline_assets_*
+output
+uploads
+app.json
+build.sh
+run_main.sh
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.development
+.env.production
+.env.publish
+
+# Editor directories and files
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# wxt
+.wxt/*
+
+# file output
+output
+uploads
+*.zip
+
+# python
+__pycache__
+.venv
