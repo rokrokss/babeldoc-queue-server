@@ -262,7 +262,7 @@ async def root():
         "version": "1.0.0",
         "status": "healthy",
         "license": "AGPL-3.0-or-later",
-        "source": "https://github.com/rokrokss/babeldoc-server",
+        "source": "https://github.com/rokrokss/babeldoc-queue-backend",
         "upstream": "https://github.com/funstory-ai/BabelDOC"
     }
 
