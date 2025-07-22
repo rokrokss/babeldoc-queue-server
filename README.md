@@ -1,4 +1,4 @@
-# BabelDOC Server
+# BabelDOC Queue Backend
 <sup>main-queue API server ＋ serverless worker</sup>
 
 This repository contains two coordinated FastAPI services that together provide an **async, queue-backed PDF machine-translation pipeline powered by [BabelDOC](https://github.com/funstory-ai/BabelDOC)**.
